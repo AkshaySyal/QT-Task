@@ -8,9 +8,11 @@
 5. At bottom right corner click on Run Button
 
 ## What has been done
-I have built a basic text-editing app. 
+I have built a basic text-editing desktop app capable of performing CRUD operations on txt files. I have also implemented a few text formating features.
 
 ## Issues/challenges
+1. After applying any text formating feature on a text file and opening it again results in the entire text of the file formated with the last applied text formating feature.
+2. Text formating features are not toggle buttons. Sepeate menu options are created to achieve the reverse effect. 
 
 ## Features
 1. Basic functionalities of text-editing apps like:
