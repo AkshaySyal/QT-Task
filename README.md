@@ -17,7 +17,7 @@ I have built a basic text-editing app.
     1. New, Open, Save, Save As under File menu
     2. Cut, Copy, Paste, Undo, Redo under Edit menu
 
-2. Text formating features are also implemented like 
+2. Text formating features are also implemented like:
         1. Bold
         2. Subscript
         3. Superscript.
