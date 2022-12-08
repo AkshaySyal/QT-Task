@@ -18,8 +18,8 @@ I have built a basic text-editing app.
     2. Cut, Copy, Paste, Undo, Redo under Edit menu
 
 2. Text formating features are also implemented like:
-        1. Bold
-        2. Subscript
-        3. Superscript.
+    1. Bold
+    2. Subscript
+    3. Superscript.
 
 3. An 'About Me' section which display my resume in a dialogue box.
